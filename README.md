@@ -1,1 +1,1 @@
-# the_midnight_post_clone
+this website is not responsive 
